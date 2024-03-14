@@ -5,5 +5,5 @@
 
 ▶️ [가짜연구소 인과추팀 블로그](https://causalinferencelab.github.io)
 
-▶ [가짜연구소 블로그](https://pseudolab.github.io/)
+▶️ [가짜연구소 블로그](https://pseudolab.github.io/)
 
