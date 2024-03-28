@@ -13,3 +13,9 @@
 ▶️ [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io)
 
 ▶️ [가짜연구소 블로그](https://pseudolab.github.io/)
+
+### References
+
+[1] Kohavi, R., Tang, D., & Xu, Y. (2020). Trustworthy Online Controlled Experiments: A Practical Guide to A/B Testing. Cambridge University Press. https://experimentguide.com/
+
+[2] Gupta, S., Ulanova, L., Bhardwaj, S., Dmitriev, P., Raff, P., & Fabijan, A. (2018). The Anatomy of a Large-Scale Experimentation Platform. 2018 IEEE International Conference on Software Architecture (ICSA), 1–109. https://doi.org/10.1109/ICSA.2018.00009
