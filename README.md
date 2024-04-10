@@ -12,7 +12,7 @@
 
 ▶️ [프로젝트 소개](https://www.notion.so/chanrankim/6f637b9572f14c61b6ae84c2739ffc41?pvs=4)
 
-▶️ [스터디 요약, Discuss, Q&A](https://github.com/CausalInferenceLab/OCE-Materials/issues)
+▶️ [스터디 요약, Discuss, Q&A](https://github.com/CausalInferenceLab/OCE-Materials/issues) (Open, Closed 둘 다 참고하세요!)
 
 ▶️ [가짜연구소 인과추론팀 블로그](https://causalinferencelab.github.io)
 
